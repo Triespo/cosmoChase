@@ -1,0 +1,6 @@
+cmake-build-debug
+cocos2d
+.cocos-project.json
+.idea
+*DS_Store*
+bin
